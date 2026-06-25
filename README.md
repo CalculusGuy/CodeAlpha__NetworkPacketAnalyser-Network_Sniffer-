@@ -2,6 +2,10 @@
 
 A real-time network packet analyzer built with **Python** and **Scapy** for network security monitoring, traffic analysis, and protocol inspection.
 
+## Author
+## Nilanjan Chowdhury
+## GitHub : https://github.com/CalculusGuy
+
 ---
 
 ## 📌 Overview
